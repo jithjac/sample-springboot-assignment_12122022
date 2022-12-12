@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.levo.dockerexample</groupId>
-    <artifactId>docker-java-app-example</artifactId>
+    <artifactId>docker-java-app-example-jithin</artifactId>
     <packaging>jar</packaging>
     <version>2.0.5-SNAPSHOT</version>
     <name>docker-java-app-example</name>
@@ -80,10 +80,10 @@
     </build>
 
   <scm>
-    <connection>scm:git:https://github.com/eficensdevops/sample-springboot-example.git</connection>
-    <developerConnection>scm:git:https://github.com/eficensdevops/sample-springboot-example.git</developerConnection>
+    <connection>scm:git:https://github.com/jithjac/sample-springboot-assignment_12122022.git</connection>
+    <developerConnection>scm:git:https://github.com/jithjac/sample-springboot-assignment_12122022.git</developerConnection>
     <tag>HEAD</tag>
-    <url>scm:git:https://github.com/eficensdevops/sample-springboot-example.git</url>
+    <url>scm:git:https://github.com/jithjac/sample-springboot-assignment_12122022.git</url>
   </scm>
 
 </project>
